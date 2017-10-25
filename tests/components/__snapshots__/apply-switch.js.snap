@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`components apply-switch matches its snapshot and calls loadInitial if not fullRender 1`] = `
+<div>
+  <p>
+    Loading
+  </p>
+</div>
+`;
+
+exports[`components apply-switch matches its snapshot and doesn't call loadInitial if fullRender 1`] = `
+<div>
+  <p>
+    Full
+  </p>
+</div>
+`;

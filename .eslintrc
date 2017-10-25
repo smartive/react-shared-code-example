@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "fetch": false,
+    "jest": false,
+    "describe": false,
+    "expect": false,
+    "it": false
+  },
+  "rules": {
+    "import/prefer-default-export": "off"
+  },
+  "extends": ["prettier", "airbnb/base"],
+  "parser": "babel-eslint"
+}
