@@ -1,4 +1,7 @@
 # react-shared-code-example
+[![Build Status](https://travis-ci.org/smartive/react-shared-code-example.svg?branch=master)](https://travis-ci.org/smartive/react-shared-code-example)
+
+
 This is an example repository containing code that is shared between a React Native and a React App.
 
 ## Usage
